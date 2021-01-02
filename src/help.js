@@ -1,31 +1,32 @@
 const help = (prefix) => {
 	return `> *MorningStar* <
-*${prefix}sticker* ou *${prefix}stiker*  (faz animada tbm)\n
-*${prefix}toimg* (marque uma figurinha)\n
+*${prefix}sticker* ou *${prefix}stiker*  (faz animada tbm)
+*${prefix}toimg* (marque uma figurinha)
 
 > *Outros* <
-*${prefix}gtts*  (EX: *${prefix}gtts ja On2-chan*)\n
-*${prefix}loli*\n
-*${prefix}nsfwloli*\n
-*${prefix}simi*  (EX: *${prefix}simi yourmessage*)\n
-*${prefix}ocr*  (responder imagem ou enviar imagem com legenda)\n
-*${prefix}wait*  (responder imagem ou enviar imagem com legenda)\n
-*${prefix}escrever*\n
-*${prefix}blocklist*\n
-*${prefix}tiktokstalk (username)*\n
+*${prefix}gtts*  (EX: *${prefix}gtts ja On2-chan*)
+*${prefix}loli*
+*${prefix}nsfwloli*
+*${prefix}simi*  (EX: *${prefix}simi yourmessage*)
+*${prefix}ocr*  (responder imagem ou enviar imagem com legenda)
+*${prefix}wait*  (responder imagem ou enviar imagem com legenda)
+*${prefix}escrever*
+*${prefix}blocklist*
+*${prefix}tiktokstalk (username)*
 
 > *Gropos* <
-*${prefix}listaadmins*\n
-*${prefix}ban*\n
-*${prefix}add*\n
-*${prefix}link*\n
+*${prefix}listaadmins*
+*${prefix}ban*
+*${prefix}add*
+*${prefix}link*
 *${prefix}everyone*
-*${prefix}simih*  (1 Ativa 0 Desativa)\n
-*${prefix}bv  (1 Ativa 0 Desativa)\n\n
+*${prefix}simih*  (1 Ativa 0 Desativa)
+*${prefix}bv  (1 Ativa 0 Desativa)
 
-meu número: wa.me/+5519996503657\n
-meu insta: https://instagram.com/frostyocruzado\n
-meu grupo só pq fodase: https://chat.whatsapp.com/EB4sKfEnhSKE7B0lKkjvHs\n
+
+meu número: wa.me/+5519996503657
+meu grupo só pq fodase: https://chat.whatsapp.com/EB4sKfEnhSKE7B0lKkjvHs
+meu insta: https://instagram.com/frostyocruzado
 
 desanimei`
 }
